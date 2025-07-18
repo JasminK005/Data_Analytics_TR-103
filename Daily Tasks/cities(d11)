@@ -1,0 +1,7 @@
+X.id. X.cod. X.country.        X.name.    X.lat.    X.lon. X.alt.
+1   "1"   2338  "Colombi"       "Bogota"  4.600000 -74.08334   2620
+2   "2"   2339  "Colombi"         "Cali"  3.437222 -76.52250    758
+3   "3"   2340  "Colombi"     "Medellin"  6.291389 -75.53611   2076
+4   "4"   2341  "Colombi" "Barranquilla" 10.963889 -74.79639     33
+5   "5"   2342  "Colombi"    "Cartagena" 10.399722 -75.51444     36
+6   "6"   2343  "Colombi"       "Cucuta"  7.883333 -72.50528    314
